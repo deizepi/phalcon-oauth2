@@ -1,0 +1,20 @@
+[Mon, 20 May 19 23:20:50 +0200][DEBUG] 
+	Acessada a URL: GET /authorize/code?codigo_desafio=mP3QN7O8y-M86UxSqtUlhBFmAck4hfquGuLmLzSH2Gg&identificador=cliente&metodo_desafio=S256
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Resposta: 401 Unauthorized {"status":"error","message":"codigo_desafio precisa ser \u00fanico","code":"oauth_exception"}
+[Mon, 20 May 19 23:21:07 +0200][DEBUG] 
+	Acessada a URL: GET /authorize/code?codigo_desafio=CEwwiAGojZlAU1MtrqdWEFohtRGD87tM0kpncEreZ10&identificador=cliente&metodo_desafio=S256
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Resposta: 200 OK {"status":"success","data":{"codigo":"def50200904e6f289c97832d17b2af44ad93720b31ac03e85313b10a4162183fd6c55de80c6dd298f44dc3e13ac42f8627b1fc55a10fd7f467c669018497b8670c82108985ae7e5f86222518eab88112cbf94195992a8df1ed5a64cd7c5ed01415d3d67e45cd688be799bf267df34cf5cfeb4e6ef14070eafe6f7d39d61d1bf7213cce0bbc8a55ede56712ca8ae427e275cd5664ce50c155ca7b5b544a00ea9b733aa0b7bc387de32be897412295483b50fefbcfd9e7906b266b26d0d8a042f79d170db3812c65870c7502887374666c3be6ea923e6d9a37f8c3e85120d939715e2a6f11049bce8e56e14e1ec8ed29e3530420965c167369a267d9035c1478143d3397463688f92118b373a6cd5a3e7602e599755b757965ac1518f60032769e0fe5a9364ab85d07"}}
+[Mon, 20 May 19 23:23:01 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Resposta: 401 Unauthorized {"status":"error","message":"O c\u00f3digo de verifica\u00e7\u00e3o n\u00e3o \u00e9 v\u00e1lido","code":"verificador_invalido"}
+[Mon, 20 May 19 23:24:23 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Resposta: 200 OK {"status":"success","data":{"token_acesso":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjbGllbnRlIiwiZXhwIjoxNTU4MzkxMDYyLCJpYXQiOjE1NTgzODc0NjMsIm5iZiI6MTU1ODM4NzQ2MywianRpIjoiOGM2NzUwNThiNDNlMmQxOTcxYjk3NzVkNmZkOWMyNjI0MTA4M2UwODY2MzRiNzgwNmVkMWE4ZGYyODQ1MjBhMDE4ZWVlM2Q4NmYxYmY1M2YifQ.m9OrhO0st45oE9mcGx1uoJQLquomOENIwSFCwonQvP5RaEEcUzUWASF-OTReDpDiH4F_MJCE2Dd_1qvEgKIz5avHQ61_NLowUhfESZPc3omtLlbiIACHTeCdf1RZNUi1hoIoXIJathX9-vBfV4285OIDN-sunEj-tKkvePjJjgTLpqAO8DaU2Zw24_D0V9yVYoQcLopz91iIznIrlOUg-1hbJlMKtRexOZlT9dzfmPV_b6Fq-HPfsyb7JFuIvqa4Hmd6XKeDD7S-zNGbjfT6UHAtUyBwZUHCzrIpK7g0vJUjzLRq7usPNbLy_nYiK6IU0ZIumDm4TWrgo7CWa7_yvg","expiracao":1558391062,"token_atualizacao":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjbGllbnRlIiwiZXhwIjoxNTYxMDY1ODYyLCJpYXQiOjE1NTgzODc0NjMsIm5iZiI6MTU1ODM4NzQ2MywianRpIjoiNjc0MTE5NzRjYzBlYzVhM2EyZDBmYjVmYzljNDM5MDc3MTQyYjM0OTU5OWQ5ZmY5YjJmZDgyMTVhODAyZTdkY2FiNmU4NGE2YzZkMjEwZDcifQ.GzxRtHkEx-R-Xu3rkHZ-5StvZpoJOzO5joljG9dkZrNducHLsMQZdmAHw1vhxIscf8JJySBQC3Tu1SyIbiJYkKubHMMXyoe2CdoKlqiTgZVggkOIZjGFO2N8SYwU-cPpjI_lkTr1ZwzUyZmQStjtL4MRs-wD7dNGlZmXUiBGpwhvL-K6orrORad219qrVpjgKVDNcXLqcXO8dy_cS2UlEG4QVUOC8xpQNffKI5hjDlUK5mEPcU0-a3okgk-IZZv7OnsULQEh-lt0wCkqjyfljDkQohjEkq0o94AV4MwvmcE-G4ZDaPtnRHeJZzhjqyNgcIimPcIqiKoUyI738sY9Cw"}}

@@ -1,0 +1,48 @@
+[Thu, 16 May 19 22:09:40 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"cliente_credenciado","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:10:38 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"cliente_credenciado","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:10:50 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"cliente_credenciado","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:12:28 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"token_atualizacao","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-","token_atualizacao":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjbGllbnRlIiwiZXhwIjoxNTYwNzE1ODUwLCJpYXQiOjE1NTgwMzc0NTAsIm5iZiI6MTU1ODAzNzQ1MCwianRpIjoiMDA2Nzc3YmI3ZWU0MTFiYjEzZjA3ZWZlZDZhZWVjNmU3MmZmODM0NWNhYTM3MTYyY2Q1OThmZWZhNjA5ODMxNzFmNzVjOWRlZGFiNjY3MDkifQ.W3bsI90HHUgXzgqBGc82wUPhI6GaNGBGAVJiC9boLYiHjzg4ZphvXT9SPf1F0Noakuc8ncIRm-VhgQ7WEb81ZyhaZwHNpQl1xAYg4M-z3H17PmpA2s4Pfh1_NVCKvFcSrXaFPMoyfZp7dIGYZOreeGvOu9BXryG5O-xYRiPwN9dNdbYJCqRY5X5Itvlz9WyVVeOIY3XHQHrL5mhzOWczIaf4JSRMp-L6PQdTDr8KFm94EuulfSpizq3bDR77K5PAUci-7BVPRNXFmg-jWu5gpV5a_tRQdvBuCjWsKi9aBe20erkzUAD_pTrAdC4Gismuhgo-COtuNlHIG19smvL70w"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:12:37 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"senha","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-","email":"email@example.com","senha":"123456"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:12:55 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"token_atualizacao","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-","token_atualizacao":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjbGllbnRlIiwiZXhwIjoxNTYwNzE1OTU2LCJpYXQiOjE1NTgwMzc1NTcsIm5iZiI6MTU1ODAzNzU1NywianRpIjoiYjE0YzU1NjIyMTFlZGFjYmY3YjJlODQxNzBlYTVmZDBiOTkxMGVlMTkwNjQwMmFlZmZmYTI5NzIyNDZmZWFlMTI1NzQyMTAzNzM0N2EwMTIifQ.nGXZu7u1j0lHJjMhXZJ6q02_UprjLKiD2u-fCtqV_3K-Ri4JM5xQrfjnsqhkPcfzUI4X0nRbqGVrwQSrdzrQQFl2bJG5kKOOkx4daswbUSCyxFBe7CP-aSmm4H_VvF5UKQgvhnm4n5b_0LZ0mygd11G6iNXkFegC2Sq3eQ2HScp7YPmbJBVmJL_jLwdQABdFhduGM8xW9s0Z8-PNz1iucCHh_wY21N2pa0E1jpLBSlAwINphpAa_hntsgYcb6N_Zfvo1A6yqu4haBllHvKY8h_BIWkTkK6qCCsqTHAnZIn8k5X8hT-o6O9nGGp_QsUKOuhPXVitUzNn2775GARtkxA"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:59:33 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"senha","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-","email":"email@example.com","senha":"123456"}
+	Parâmetros recebidos via JSON: false
+[Thu, 16 May 19 22:59:49 +0200][DEBUG] 
+	Acessada a URL: POST /token
+	IP: 127.0.0.1
+	Não foi enviada autorização
+	Parâmetros recebidos como POST: {"tipo_autenticacao":"token_atualizacao","identificador":"cliente","chave_secreta":"+yyat69!S@:pjZ;Et:tWu&]XRw6CAX&e-}ez?|tG=c-`1[zf&S1^R*']~HUZoU>_)\\T6o#xa}dv;^+@^W'm|T>p*u!C8OQ3q7gg-","token_atualizacao":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjbGllbnRlIiwiZXhwIjoxNTYwNzE4NzczLCJpYXQiOjE1NTgwNDAzNzMsIm5iZiI6MTU1ODA0MDM3MywianRpIjoiOTU1OTVmMjI5YmMyNzA0ZDRhZmIwMzA0NTEyMjIzZTg5YTdjYjAwYmJhYzUwNTQ3YzljMDM4MWIwOGRhNDlmNzk1ZTE0NjJkMmNhMWE1ZDEifQ.UWgGYRJ6MUVhH8RPo7cLoMUBedfd7MX1DRMKDRozEA13laEilCNsvjnPzFFFC-RHuPq6hKz2DcooqWhURLXsAlzKwCEr3wgvDrr4IeCLuBvSRE0p2J-0KtwSxOrHPwcEUHcrhM53XSemkkuf1_o_htJ2Rwcv2jFmc77sHAPhcHiH0kcCYZiVsOpTkWAxqaUBHRZsSw7ud8Hqksq11nNMhfXIsXjhuHZVnHmEHR02Vda0XyO3o5Q36DNldweIcxFkYA_DMyY3y1a964FtGdHDm0Zu_2Es4v6nfnmhJd5IeEraVsQVdmEKkawK-fVPt0o1gpu8Av1y1HtdZSjkRWtoog"}
+	Parâmetros recebidos via JSON: false
