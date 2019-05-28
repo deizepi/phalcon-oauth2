@@ -209,7 +209,7 @@ class TokenController extends Phalcon\Mvc\Controller
 
         $data = [
             "token_acesso"   => JWT::encode($payload, file_get_contents($this->config->oauth->private_key), 'RS256'),
-            "expiracao"      => strtotime($token_acesso->expiracao)
+            "expira_em"      => strtotime($token_acesso->expiracao) - time()
         ];
 
         if($this->oauth->getOauthAutenticacao("autenticacao = 'token_atualizacao'")->count() !== 0)
